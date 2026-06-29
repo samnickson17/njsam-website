@@ -96,7 +96,7 @@ function App() {
     {
       id: '2026',
       title: 'THAPPATTA FLOW',
-      meta: '2Collab with PSYCHADHIIII',
+      meta: 'Collab with PSYCHADHIIII',
       desc: 'A collaborative banger with PSYCHADHIIII delivering a massive, raw Tamil Kuthu feel. Warning the industry that there is zero comparison because our lane is entirely different.',
       links: [
         { label: 'Spotify', icon: 'spotify', url: 'https://open.spotify.com/embed/track/17PI3TjLe9PdwtCnWMoDKo?utm_source=generator&si=d05e50221abf4ea3' },
